@@ -1,0 +1,14 @@
+{
+  "photo": "Photo Gallery",
+  "my-album": "My Album",
+  "english": "English",
+  "german": "German",
+  "change-language": "Change language",
+  "main-text": "Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.",
+  "heading": "Heading",
+  "desc": "This is a media card. You can use this section to describe the content.",
+  "view": "View",
+  "edit": "Edit",
+  "nextjs": "Nextjs",
+  "footer": "Made with love"
+}
